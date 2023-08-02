@@ -1,0 +1,20 @@
+version=1
+id=3013748283
+title=Clear Debris
+description=[h1]Supports B41.71+. Works in multiplayer[/h1]
+description=
+description=Remove this junk that spoils the appearance of your base.
+description=
+description=[h1]It's important, if the author of the original says to hide the mod, I'll hide it.[/h1]
+description=
+description=[h1]What he's doing[/h1]
+description=•Adds the ability to remove stumps, stones and other trash from the world. Just take a spatula and right click on the piece of debris you want to remove.
+description=•Requires a [b]"Hand Shovel | Hand Fork | Shovel | Garden Hoe | Garden Fork"[/b] in your inventory.
+description=[img]https://imgur.com/aloxJ9e.png[/img] | [img]https://imgur.com/ZsdhIEQ.png[/img] | [img]https://imgur.com/enwbpeP.png[/img] | [img]https://imgur.com/DVTWH7a.png[/img] | [img]https://imgur.com/hmjbk3v.png[/img] | [img]https://imgur.com/mIrZ06v.png[/img]
+description=
+description=[h1]Original Mod[/h1]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2927744729&searchtext=Debris] Remove Debris[/url]
+description=
+description=[img]https://imgur.com/6OBlYju.gif[/img]
+tags=Build 41;Building;Interface;Multiplayer;Realistic
+visibility=public
